@@ -67,9 +67,9 @@ In conclusion, **Task 1** efforts empower users to make informed decisions when 
 In the second task of the BioHackathon, we discussed the feasibility of mapping EDAM operations to generic or specific technical and scientific run-time benchmarks fit for the purpose of comparing workflows.
 
 During the discussions, we considered three levels of run-time benchmarks:
-- Level 0: benchmarks or tests reporting if the component or workflow can be executed without crashing
-- Level 1: benchmarks for a component or workflow that can be computed from any (non-empty) input data
-- Level 2: benchmarks for a component or workflow that require ground truth (gold standard) datasets and corresponding expected (correct) output for the component or workflow 
+ - Level 0: benchmarks or tests reporting if the component or workflow can be executed without crashing
+ - Level 1: benchmarks for a component or workflow that can be computed from any (non-empty) input data
+ - Level 2: benchmarks for a component or workflow that require ground truth (gold standard) datasets and corresponding expected (correct) output for the component or workflow 
 
 Level 0 may require zero input files (returning a usage string, demonstrating the tool or tools could be accessed and executed), level 1 typically requires at least one input file to compute a benchmark dependent only knowing the input file and EDAM operation, and level 2 typically requires at least two (the gold standard data and expected output/correct answer). Note that these levels do not correspond to common levels of software testing, but are specifically defined for the testing functionality of individual operations performed by a workflow, where more than one component may be responsible for the output.
 
@@ -108,8 +108,8 @@ Given the progress acheived in this BioHackathon, we expect that the Workflomics
 
 # GitHub repositories
 
-* github.com/Workflomics
-* github.com/restape
+ - github.com/Workflomics
+ - github.com/restape
 
 
 # Acknowledgements
