@@ -110,8 +110,8 @@ Given the progress acheived in this BioHackathon, we expect that the Workflomics
 
 # GitHub repositories
 
- - github.com/Workflomics
- - github.com/restape
+ - github.com/workflomics/workflomics-frontend
+ - github.com/sanctuuary/restape
 
 
 # Acknowledgements
