@@ -10,7 +10,7 @@ authors:
   - name: Felipe Morato
     orcid: 0009-0008-1501-4073
     affiliation: 2
-  - name: Anna-Lena Lamrecht
+  - name: Anna-Lena Lamprecht
     orcid: 0000-0003-1953-5606
     affiliation: 3
   - name: Magnus Palmblad
