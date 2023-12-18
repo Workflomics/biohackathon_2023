@@ -67,7 +67,7 @@ In conclusion, **Task 1** efforts empower users to make informed decisions when 
 In the second task of the BioHackathon, we discussed the feasibility of mapping EDAM operations to generic or specific technical and scientific run-time benchmarks fit for the purpose of comparing workflows.
 
 During the discussions, we considered three levels of run-time benchmarks:
-* Level 0: benchmarks or tests reporting if the component or workflow can be executed without crashing
+- Level 0: benchmarks or tests reporting if the component or workflow can be executed without crashing
 * Level 1: benchmarks for a component or workflow that can be computed from any (non-empty) input data
 * Level 2: benchmarks for a component or workflow that require ground truth (gold standard) datasets and corresponding expected (correct) output for the component or workflow 
 
